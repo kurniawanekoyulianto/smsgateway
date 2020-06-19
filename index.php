@@ -1,5 +1,5 @@
 <?php
-	// Account details s
+	// Account details lorem
 	$apiKey = urlencode('lf5UCZQvIOk-2xy0Dlv4l3XEVFyBNzpOLCtSaXasIZ');
 	
 	// Message details
