@@ -22,4 +22,5 @@
 	
 	// Process your response here
 	echo $response;
+	
 ?>
